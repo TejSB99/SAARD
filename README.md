@@ -44,5 +44,3 @@ Shruti Kambar
 Sunita Channametri
 Tejashwini Ankale
 Guide: Prof. Anjana Kulkarni, Dept. of CSE, AITM Belagavi
-Report
-Full project report: `docs/SAARD_Project_Report.pdf`
